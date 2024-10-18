@@ -12,6 +12,6 @@ public class ExploreThreads {
     }
 
     public static void main(String[] args) {
-
+        Thread.ofPlatform();
     }
 }
